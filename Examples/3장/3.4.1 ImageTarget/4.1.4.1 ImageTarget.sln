@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.1.4.1 ImageTarget", "4.1.4.1 ImageTarget.csproj", "{6664AC89-3EF6-B199-8584-723FDBDCF967}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.1.4.1 ImageTarget.Editor", "4.1.4.1 ImageTarget.Editor.csproj", "{26442A97-4C99-7D63-CC5D-450662670FBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6664AC89-3EF6-B199-8584-723FDBDCF967}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6664AC89-3EF6-B199-8584-723FDBDCF967}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6664AC89-3EF6-B199-8584-723FDBDCF967}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6664AC89-3EF6-B199-8584-723FDBDCF967}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26442A97-4C99-7D63-CC5D-450662670FBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26442A97-4C99-7D63-CC5D-450662670FBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26442A97-4C99-7D63-CC5D-450662670FBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26442A97-4C99-7D63-CC5D-450662670FBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

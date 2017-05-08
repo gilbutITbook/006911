@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.1.4 VRButton", "3.1.4 VRButton.csproj", "{A79680D2-BDD2-7D71-2501-3A172A93FB52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.1.4 VRButton.Editor", "3.1.4 VRButton.Editor.csproj", "{5DEDF6A6-09D3-6E48-73CC-D9CA1127BBA2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A79680D2-BDD2-7D71-2501-3A172A93FB52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A79680D2-BDD2-7D71-2501-3A172A93FB52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A79680D2-BDD2-7D71-2501-3A172A93FB52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A79680D2-BDD2-7D71-2501-3A172A93FB52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DEDF6A6-09D3-6E48-73CC-D9CA1127BBA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DEDF6A6-09D3-6E48-73CC-D9CA1127BBA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DEDF6A6-09D3-6E48-73CC-D9CA1127BBA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DEDF6A6-09D3-6E48-73CC-D9CA1127BBA2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

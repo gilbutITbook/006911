@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/hello_vr.unity
+  isLoaded: 1
+  isActive: 1

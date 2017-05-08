@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lancekun Go", "Lancekun Go.csproj", "{24DDB8C1-610F-82DA-D146-F7C622220917}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lancekun Go.Editor", "Lancekun Go.Editor.csproj", "{2F4D030C-FEC1-C0BC-AE38-DD187C0CC24F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24DDB8C1-610F-82DA-D146-F7C622220917}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24DDB8C1-610F-82DA-D146-F7C622220917}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24DDB8C1-610F-82DA-D146-F7C622220917}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24DDB8C1-610F-82DA-D146-F7C622220917}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F4D030C-FEC1-C0BC-AE38-DD187C0CC24F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F4D030C-FEC1-C0BC-AE38-DD187C0CC24F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F4D030C-FEC1-C0BC-AE38-DD187C0CC24F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F4D030C-FEC1-C0BC-AE38-DD187C0CC24F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

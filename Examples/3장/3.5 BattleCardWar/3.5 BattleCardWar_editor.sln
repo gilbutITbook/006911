@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.5 BattleCardWar_editor", "3.5 BattleCardWar_editor.csproj", "{AEF0C8FD-C919-D68A-38A7-277223877BC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.5 BattleCardWar_editor.Editor", "3.5 BattleCardWar_editor.Editor.csproj", "{C9F68673-70CB-C3D9-25F5-AF9D132DC02F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEF0C8FD-C919-D68A-38A7-277223877BC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEF0C8FD-C919-D68A-38A7-277223877BC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEF0C8FD-C919-D68A-38A7-277223877BC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEF0C8FD-C919-D68A-38A7-277223877BC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9F68673-70CB-C3D9-25F5-AF9D132DC02F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9F68673-70CB-C3D9-25F5-AF9D132DC02F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9F68673-70CB-C3D9-25F5-AF9D132DC02F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9F68673-70CB-C3D9-25F5-AF9D132DC02F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

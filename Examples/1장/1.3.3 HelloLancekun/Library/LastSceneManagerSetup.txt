@@ -1,0 +1,4 @@
+sceneSetups:
+- path: C:/Users/jieun/repo/gilbut_vr_unity/Examples/3.1.2 HelloVR/Assets/hello_vr.unity
+  isLoaded: 1
+  isActive: 1
